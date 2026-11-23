@@ -472,9 +472,9 @@
     "descPortfolio": "方舟工坊自己设计开发并上线的 App（育儿、旅游分账、灵修、吉他和弦），以及客户的官网与系统案例。",
     "descAbout": "方舟工坊（Ark Studio）由 David 经营，9 年全栈经验，协助个人、新创与企业把想法做成 App、网站与系统。从画面设计、开发到维护，一个窗口处理。",
     "descContact": "想做软件或 App？填写项目评估表单，或用 LINE、Telegram、Email 联系方舟工坊，免费评估可行性，通常 24 小时内回复。",
-    "titlePrivacy": "隐私权政策 | 方舟工坊",
+    "titlePrivacy": "隐私权政策 {'|'} 方舟工坊",
     "descPrivacy": "方舟工坊 App 如何收集、使用与保护你的数据。",
-    "titleTerms": "服务条款 | 方舟工坊",
+    "titleTerms": "服务条款 {'|'} 方舟工坊",
     "descTerms": "使用方舟工坊 App 的服务条款。"
   },
   "notFound": {

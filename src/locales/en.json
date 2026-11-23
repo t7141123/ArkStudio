@@ -472,9 +472,9 @@
     "descPortfolio": "Apps Ark Studio designed, built and launched itself (parenting, travel expense splitting, devotion, guitar chords), plus client websites and systems.",
     "descAbout": "Ark Studio (方舟工坊) is run by David, with 9 years of full-stack experience helping individuals, startups and companies turn ideas into apps, websites and systems. From design and development to maintenance, with one point of contact.",
     "descContact": "Want to build software or an app? Fill in the project brief, or contact Ark Studio via LINE, Telegram or email for a free feasibility assessment, usually answered within 24 hours.",
-    "titlePrivacy": "Privacy Policy | Ark Studio",
+    "titlePrivacy": "Privacy Policy {'|'} Ark Studio",
     "descPrivacy": "How Ark Studio apps collect, use and protect your data.",
-    "titleTerms": "Terms of Service | Ark Studio",
+    "titleTerms": "Terms of Service {'|'} Ark Studio",
     "descTerms": "The terms for using Ark Studio apps."
   },
   "notFound": {
