@@ -16,7 +16,7 @@
     "preview:cloudflare": "wrangler pages dev dist",
     "lint:fix": "eslint . --fix",
     "smoke:web": "node scripts/smoke-web.mjs dist '#app'",
-    "verify": "node scripts/check-no-workflows.mjs && npm run lint && npm test && npm run build && npm run smoke:web"
+    "verify": "node scripts/check-no-workflows.mjs && npm run lint && npm test && npm run build && npm run smoke:web && node scripts/check-vault-sync.mjs"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",

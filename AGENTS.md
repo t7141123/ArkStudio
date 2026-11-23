@@ -25,6 +25,7 @@
 - Deploy 指令：`npm run deploy`（會跑 `vite build` + `wrangler pages deploy`）。
 
 ## 機器強制的規則（verify 會擋，違規時先看報錯訊息）
+- 筆記庫交接單：每次改動後必須更新 `~/Documents/SecondBrain/projects/<本專案>/STATUS.md`，`verify` 的 `check-vault-sync` 會擋；`commits.md` 是自動產生的，不要手改。
 - 完成條件：`npm run verify` 通過並在回報中貼出輸出（無 workflow 檢查、lint、測試、build、空白畫面冒煙測試）。沒跑或失敗就不算完成。
 - 不使用 GitHub Actions（免費額度）：`.github/workflows/` 必須保持空的，`scripts/check-no-workflows.mjs` 會擋。
 - 不要每次請求都寫或刪 Cloudflare KV（免費方案每日 1,000 次）：改用 D1、Durable Object 或 Rate Limiting binding。
