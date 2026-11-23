@@ -26,7 +26,7 @@
 - [BabyStep 育兒歷程](https://babystep.ark-studio.app/): 孕期倒數、產檢記錄到新生兒作息與成長追蹤
 - [每日靈糧](https://daily-manna.ark-studio.app/): 每日 5 分鐘靈修，結合經文、默想與禱告
 - [旅遊管家](https://trip.ark-studio.app/): 排行程、記花費、自動分帳，支援 AI 規劃與多人共編
-- [隨身歌譜本](https://chordbook.ark-studio.app/): 吉他和弦查詢，含指法圖與音色播放
+- [隨身歌譜本](https://chordcase.ark-studio.app/): 吉他和弦查詢，含指法圖與音色播放
 
 ## 常見問題 FAQ
 

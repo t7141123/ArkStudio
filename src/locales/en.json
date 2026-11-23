@@ -59,7 +59,7 @@
       "uvacoDesc": "An internal education and event management system tailored for team operations, featuring event registration, categorized browsing, and member management to effectively manage trainings and gatherings.",
       "npo": "NPO",
       "education": "Organizational Education System",
-      "chordBook": "Chord Book",
+      "chordBook": "ChordCase",
       "chordBookDesc": "Interactive guitar chord lookup tool with real-time fingering diagrams and audio playback, helping guitar learners master chord shapes quickly.",
       "tripRecords": "TripKeeper",
       "tripRecordsDesc": "All-in-one trip companion for planning itineraries, tracking expenses and splitting costs automatically, with AI trip planning and shared editing for travel groups.",
@@ -238,7 +238,7 @@
       "uvacoDesc": "An internal education and event management system tailored for team operations, featuring event registration and member management. Since implementation, event management time has been significantly reduced, and member participation has increased notably.",
       "education": "Organizational Education System",
       "npo": "NPO",
-      "chordBook": "Chord Book",
+      "chordBook": "ChordCase",
       "chordBookDesc": "Interactive guitar chord lookup tool with real-time fingering diagrams and audio playback, helping guitar learners master chord shapes quickly.",
       "tripRecords": "TripKeeper",
       "tripRecordsDesc": "All-in-one trip companion for planning itineraries, tracking expenses and splitting costs automatically, with AI trip planning and shared editing for travel groups.",
@@ -484,7 +484,7 @@
   "legal": {
     "privacy": {
       "title": "Privacy Policy",
-      "intro": "Ark Studio (\"we\") makes the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordBook, DailyManna, GospelGame and TripKeeper. This policy explains what data these apps and their websites collect, why, and what you can do about it. Contact: support{'@'}ark-studio.app.",
+      "intro": "Ark Studio (\"we\") makes the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordCase, DailyManna, GospelGame and TripKeeper. This policy explains what data these apps and their websites collect, why, and what you can do about it. Contact: support{'@'}ark-studio.app.",
       "sections": [
         {
           "h": "What we collect",
@@ -518,7 +518,7 @@
             "Cloudflare hosts the apps and stores their databases.",
             "Resend delivers verification and password reset emails.",
             "Google and Apple provide optional sign-in, and Apple and Google handle store purchases.",
-            "In ChordBook, when you choose to scan sheet music, the photo is sent to Google's Gemini service to read the text. It is used only to return the result."
+            "In ChordCase, when you choose to scan sheet music, the photo is sent to Google's Gemini service to read the text. It is used only to return the result."
           ]
         },
         {
@@ -557,7 +557,7 @@
     },
     "terms": {
       "title": "Terms of Service",
-      "intro": "These terms apply to the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordBook, DailyManna, GospelGame and TripKeeper from Ark Studio (\"we\"). By creating an account or using an app you agree to them.",
+      "intro": "These terms apply to the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordCase, DailyManna, GospelGame and TripKeeper from Ark Studio (\"we\"). By creating an account or using an app you agree to them.",
       "sections": [
         {
           "h": "Your account",

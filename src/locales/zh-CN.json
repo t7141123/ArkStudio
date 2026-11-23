@@ -485,7 +485,7 @@
     "updated": "最后更新：2026 年 11 月 23 日",
     "privacy": {
       "title": "隐私权政策",
-      "intro": "方舟工坊（Ark Studio，以下称“我们”）制作 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordBook、DailyManna、GospelGame 与 TripKeeper 这几个 App。本政策说明这些 App 及其网站会收集哪些数据、用途，以及你可以怎么处理。联系邮箱：support{'@'}ark-studio.app。",
+      "intro": "方舟工坊（Ark Studio，以下称“我们”）制作 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordCase、DailyManna、GospelGame 与 TripKeeper 这几个 App。本政策说明这些 App 及其网站会收集哪些数据、用途，以及你可以怎么处理。联系邮箱：support{'@'}ark-studio.app。",
       "sections": [
         {
           "h": "我们收集什么",
@@ -519,7 +519,7 @@
             "Cloudflare：托管 App 并存储数据库。",
             "Resend：发送验证与重置密码的 Email。",
             "Google 与 Apple：提供可选的登录，以及商店购买。",
-            "ChordBook：当你选择扫描乐谱时，照片会发送到 Google 的 Gemini 服务识别文字，只用来返回结果。"
+            "ChordCase：当你选择扫描乐谱时，照片会发送到 Google 的 Gemini 服务识别文字，只用来返回结果。"
           ]
         },
         {
@@ -558,7 +558,7 @@
     },
     "terms": {
       "title": "服务条款",
-      "intro": "本条款适用于方舟工坊（Ark Studio，以下称“我们”）的 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordBook、DailyManna、GospelGame 与 TripKeeper。创建账号或使用 App，即表示你同意本条款。",
+      "intro": "本条款适用于方舟工坊（Ark Studio，以下称“我们”）的 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordCase、DailyManna、GospelGame 与 TripKeeper。创建账号或使用 App，即表示你同意本条款。",
       "sections": [
         {
           "h": "你的账号",

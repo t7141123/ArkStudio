@@ -484,7 +484,7 @@
   "legal": {
     "privacy": {
       "title": "隱私權政策",
-      "intro": "方舟工坊（Ark Studio，以下稱「我們」）製作 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordBook、DailyManna、GospelGame 與 TripKeeper 這幾個 App。本政策說明這些 App 及其網站會收集哪些資料、用途，以及你可以怎麼處理。聯絡信箱：support{'@'}ark-studio.app。",
+      "intro": "方舟工坊（Ark Studio，以下稱「我們」）製作 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordCase、DailyManna、GospelGame 與 TripKeeper 這幾個 App。本政策說明這些 App 及其網站會收集哪些資料、用途，以及你可以怎麼處理。聯絡信箱：support{'@'}ark-studio.app。",
       "sections": [
         {
           "h": "我們收集什麼",
@@ -518,7 +518,7 @@
             "Cloudflare：代管 App 並儲存資料庫。",
             "Resend：寄送驗證與重設密碼的 Email。",
             "Google 與 Apple：提供選用的登入，以及商店購買。",
-            "ChordBook：當你選擇掃描樂譜時，照片會送到 Google 的 Gemini 服務辨識文字，只用來回傳結果。"
+            "ChordCase：當你選擇掃描樂譜時，照片會送到 Google 的 Gemini 服務辨識文字，只用來回傳結果。"
           ]
         },
         {
@@ -557,7 +557,7 @@
     },
     "terms": {
       "title": "服務條款",
-      "intro": "本條款適用於方舟工坊（Ark Studio，以下稱「我們」）的 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordBook、DailyManna、GospelGame 與 TripKeeper。建立帳號或使用 App，即表示你同意本條款。",
+      "intro": "本條款適用於方舟工坊（Ark Studio，以下稱「我們」）的 BabySteps、BetweenUs、BibleFun、BibleSpark、ChordCase、DailyManna、GospelGame 與 TripKeeper。建立帳號或使用 App，即表示你同意本條款。",
       "sections": [
         {
           "h": "你的帳號",

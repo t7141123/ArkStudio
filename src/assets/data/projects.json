@@ -42,7 +42,7 @@
     "id": 6,
     "key": "chordBook",
     "imageName": "chord-book.webp",
-    "url": "https://chordbook.ark-studio.app/",
+    "url": "https://chordcase.ark-studio.app/",
     "technologies": [
       "React Native",
       "Expo",
