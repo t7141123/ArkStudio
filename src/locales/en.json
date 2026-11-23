@@ -456,7 +456,9 @@
   "footer": {
     "brand": "Ark Studio",
     "description": "Not sure how to start your digital transformation? Contact me, and I'll help you figure it out!",
-    "copyright": "© 2024-{year} Ark Studio. All rights reserved."
+    "copyright": "© 2024-{year} Ark Studio. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
   },
   "meta": {
     "title": "Software Development & Apps – From Idea to Launch – Ark Studio",
@@ -469,10 +471,146 @@
     "descServices": "How Ark Studio builds software: free consultation, MVP validation, full development, launch and long-term maintenance. Apps, websites, back-office systems and LINE bots, quoted by scope.",
     "descPortfolio": "Apps Ark Studio designed, built and launched itself (parenting, travel expense splitting, devotion, guitar chords), plus client websites and systems.",
     "descAbout": "Ark Studio (方舟工坊) is run by David, with 9 years of full-stack experience helping individuals, startups and companies turn ideas into apps, websites and systems. From design and development to maintenance, with one point of contact.",
-    "descContact": "Want to build software or an app? Fill in the project brief, or contact Ark Studio via LINE, Telegram or email for a free feasibility assessment, usually answered within 24 hours."
+    "descContact": "Want to build software or an app? Fill in the project brief, or contact Ark Studio via LINE, Telegram or email for a free feasibility assessment, usually answered within 24 hours.",
+    "titlePrivacy": "Privacy Policy | Ark Studio",
+    "descPrivacy": "How Ark Studio apps collect, use and protect your data.",
+    "titleTerms": "Terms of Service | Ark Studio",
+    "descTerms": "The terms for using Ark Studio apps."
   },
   "notFound": {
     "title": "Page Not Found",
     "message": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "Ark Studio (\"we\") makes the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordBook, DailyManna, GospelGame and TripKeeper. This policy explains what data these apps and their websites collect, why, and what you can do about it. Contact: support{'@'}ark-studio.app.",
+      "sections": [
+        {
+          "h": "What we collect",
+          "p": [
+            "Account data: your email address, display name and a password. Passwords are stored only as a salted hash; we cannot read them.",
+            "Sign-in with Google or Apple: we receive your email address and name from the provider. We do not receive your Google or Apple password.",
+            "Content you create in an app, such as notes, songs, trips, expenses, answers or family records, so that it can sync across your devices.",
+            "Basic usage data: the dates on which you were active, used to count active users and run the service.",
+            "Technical data: your IP address and device type, used briefly for security, rate limiting and fixing errors.",
+            "Purchases: where an app sells upgrades, the Apple App Store, Google Play or the payment provider processes the payment. We receive the purchase status, not your card number."
+          ]
+        },
+        {
+          "h": "How we use it",
+          "p": [
+            "To create and secure your account, sign you in, sync your content and send the one-time codes you request.",
+            "To keep the service safe, prevent abuse, and fix problems.",
+            "To count users and understand which features are used. We do not build advertising profiles."
+          ]
+        },
+        {
+          "h": "What we do not do",
+          "p": [
+            "We do not show third-party ads and we do not sell your personal data.",
+            "We do not use your content to train advertising or AI models."
+          ]
+        },
+        {
+          "h": "Who processes data for us",
+          "p": [
+            "Cloudflare hosts the apps and stores their databases.",
+            "Resend delivers verification and password reset emails.",
+            "Google and Apple provide optional sign-in, and Apple and Google handle store purchases.",
+            "In ChordBook, when you choose to scan sheet music, the photo is sent to Google's Gemini service to read the text. It is used only to return the result."
+          ]
+        },
+        {
+          "h": "Email",
+          "p": [
+            "We email you only for account purposes: verification codes, password reset codes and security notices. We do not send marketing email."
+          ]
+        },
+        {
+          "h": "Keeping and deleting data",
+          "p": [
+            "We keep your data while your account exists. You can delete your account inside each app; this removes your account and the content tied to it. Short-lived security records, such as rate-limit counters, expire on their own.",
+            "If an app does not offer deletion, or you need help, email support{'@'}ark-studio.app from your account address and we will delete it."
+          ]
+        },
+        {
+          "h": "Your choices",
+          "p": [
+            "You can ask to see, correct or delete your data at any time by emailing support{'@'}ark-studio.app.",
+            "You can revoke Google or Apple access to an app from your Google or Apple account settings."
+          ]
+        },
+        {
+          "h": "Children",
+          "p": [
+            "Our apps are not directed at children under 13 and we do not knowingly collect their data. BabySteps lets a parent record information about their own baby; that information belongs to the parent account."
+          ]
+        },
+        {
+          "h": "Changes and contact",
+          "p": [
+            "If we change this policy we will update the date above. Questions: support{'@'}ark-studio.app."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms apply to the apps BabySteps, BetweenUs, BibleFun, BibleSpark, ChordBook, DailyManna, GospelGame and TripKeeper from Ark Studio (\"we\"). By creating an account or using an app you agree to them.",
+      "sections": [
+        {
+          "h": "Your account",
+          "p": [
+            "Give a real email address you control and keep your password private. You are responsible for activity under your account.",
+            "If one person signs up by email and later signs in with Google or Apple using the same email address, we treat it as the same account."
+          ]
+        },
+        {
+          "h": "Acceptable use",
+          "p": [
+            "Do not break the law, attack or overload the service, try to access other people's accounts or data, or post content that is unlawful, abusive or infringes others' rights.",
+            "We may remove content or suspend accounts that break these rules."
+          ]
+        },
+        {
+          "h": "Your content",
+          "p": [
+            "You keep ownership of what you create. You give us permission to store and process it only to run the app for you."
+          ]
+        },
+        {
+          "h": "Paid features",
+          "p": [
+            "Some apps offer paid upgrades. Prices, billing and refunds are handled by the Apple App Store, Google Play or the payment provider shown at purchase, under their rules."
+          ]
+        },
+        {
+          "h": "Availability and changes",
+          "p": [
+            "We work to keep the apps running but do not promise uninterrupted service. We may change or retire features, and we will try to give notice of major changes."
+          ]
+        },
+        {
+          "h": "Disclaimer and liability",
+          "p": [
+            "The apps are provided \"as is\". Religious, travel, family and health-related content is for general information and is not professional advice. To the extent the law allows, we are not liable for indirect or consequential loss."
+          ]
+        },
+        {
+          "h": "Ending your account",
+          "p": [
+            "You may stop using an app and delete your account at any time. We may end accounts that seriously or repeatedly break these terms."
+          ]
+        },
+        {
+          "h": "Contact",
+          "p": [
+            "Questions about these terms: support{'@'}ark-studio.app."
+          ]
+        }
+      ]
+    },
+    "updated": "Last updated: 23 November 2026"
   }
 }

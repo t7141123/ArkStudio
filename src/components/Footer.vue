@@ -39,6 +39,12 @@
         </a>
       </div>
 
+      <p class="mb-2 small">
+        <router-link :to="`/${$i18n.locale}/privacy`" class="copyright-link">{{ $t("footer.privacy") }}</router-link>
+        <span class="mx-2">·</span>
+        <router-link :to="`/${$i18n.locale}/terms`" class="copyright-link">{{ $t("footer.terms") }}</router-link>
+      </p>
+
       <!-- Copyright Info -->
       <div class="footer-bottom">
         <p class="mb-0 copyright-text">

@@ -15,6 +15,8 @@ const ROUTE_META = {
   Portfolio: { titleKey: 'meta.titlePortfolio', descKey: 'meta.descPortfolio', pageType: 'CollectionPage' },
   Services: { titleKey: 'meta.titleServices', descKey: 'meta.descServices', pageType: 'WebPage' },
   Contact: { titleKey: 'meta.titleContact', descKey: 'meta.descContact', pageType: 'ContactPage' },
+  Privacy: { titleKey: 'meta.titlePrivacy', descKey: 'meta.descPrivacy', pageType: 'WebPage' },
+  Terms: { titleKey: 'meta.titleTerms', descKey: 'meta.descTerms', pageType: 'WebPage' },
   NotFound: { titleKey: 'notFound.title', descKey: 'notFound.message' }
 }
 

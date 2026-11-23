@@ -68,6 +68,16 @@ const baseRoutes = [
     component: () => import("../views/Contact.vue"),
   },
   {
+    path: "/privacy",
+    name: "Privacy",
+    component: () => import("../views/Privacy.vue"),
+  },
+  {
+    path: "/terms",
+    name: "Terms",
+    component: () => import("../views/Terms.vue"),
+  },
+  {
     path: "/:pathMatch(.*)*",
     name: "NotFound",
     component: () => import("../views/NotFound.vue"),

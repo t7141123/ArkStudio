@@ -8,6 +8,8 @@ https://www.ark-studio.app/* https://ark-studio.app/:splat 301
 /portfolio /zh-tw/portfolio 302
 /services /zh-tw/services 302
 /contact /zh-tw/contact 302
+/privacy /en/privacy 302
+/terms /en/terms 302
 
 
 # Retired languages -> English (301, keeps the path)

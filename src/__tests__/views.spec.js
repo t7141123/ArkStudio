@@ -5,6 +5,8 @@ import { createRouter, createMemoryHistory } from 'vue-router'
 import zhTW from '@/locales/zh-TW.json'
 import Home from '@/views/Home.vue'
 import Services from '@/views/Services.vue'
+import Privacy from '@/views/Privacy.vue'
+import Terms from '@/views/Terms.vue'
 
 window.matchMedia = window.matchMedia || vi.fn().mockReturnValue({
   matches: false, addEventListener() {}, removeEventListener() {},
@@ -47,5 +49,15 @@ describe('split page views', () => {
     expect(w.findAll('.pricing-card').length).toBe(3)
     expect(w.findAll('.accordion-item').length).toBe(9)
     expect(w.find('.cta-section').exists()).toBe(true)
+  })
+
+  it('Privacy and Terms render their sections, the contact address and no raw keys', () => {
+    for (const view of [Privacy, Terms]) {
+      const w = mountView(view)
+      expect(w.find('h1').text().length).toBeGreaterThan(0)
+      expect(w.findAll('.legal-section').length).toBeGreaterThanOrEqual(8)
+      expect(w.text()).toContain('support@ark-studio.app')
+      expect(w.text()).not.toContain('legal.')
+    }
   })
 })

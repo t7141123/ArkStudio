@@ -23,7 +23,9 @@ const PAGES = [
   { slug: 'services', priority: '0.9', changefreq: 'monthly' },
   { slug: 'portfolio', priority: '0.9', changefreq: 'weekly' },
   { slug: 'about', priority: '0.7', changefreq: 'monthly' },
-  { slug: 'contact', priority: '0.6', changefreq: 'monthly' }
+  { slug: 'contact', priority: '0.6', changefreq: 'monthly' },
+  { slug: 'privacy', priority: '0.3', changefreq: 'yearly' },
+  { slug: 'terms', priority: '0.3', changefreq: 'yearly' }
 ]
 const CONCURRENCY = 4
 
